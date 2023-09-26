@@ -11,6 +11,12 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "nuxt": "^3.7.3"
+  },
+  "dependencies": {
+    "@egjs/flicking-plugins": "^4.7.1",
+    "@egjs/vue3-flicking": "^4.11.0",
+    "tailwind": "^4.0.0"
   }
 }
